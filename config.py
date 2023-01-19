@@ -36,7 +36,7 @@ else:
 BOT_TOKEN = getenv("BOT_TOKEN", "5637535086:AAFZgINmneBrW1DvnPnT1hOFSjUFzUjTnIM")
 BOT_NAME = getenv("BOT_NAME", "SUKOON MUSIC ASSISTANT")
 
-API_ID = int(getenv("API_ID", "21309577"))
+API_ID = 21309577
 API_HASH = getenv("API_HASH", "df2554b54a9eb9e572979b5db2d0cc79")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://acha:acha@cluster0.pjq3j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 OWNER_NAME = getenv("OWNER_NAME", "ZONEY")
